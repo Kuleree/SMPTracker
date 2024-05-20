@@ -1,7 +1,7 @@
 [
     {
         "name": "LeoneMC",
-        "ip": "tm.leonemc.net",
+        "ip": "play.leonemc.net",
         "type": "PC"
     },
     {
@@ -21,7 +21,7 @@
     },
     {
         "name": "AppleMC",
-        "ip": "applemc.fun",
+        "ip": "play.applemc.fun",
         "type": "PC"
     },
     {
@@ -31,12 +31,12 @@
     },
     {
         "name": "MineRival",
-        "ip": "tms.minerival.org",
+        "ip": "play.minerival.org",
         "type": "PC"
     },
     {
         "name": "MineWave",
-        "ip": "mcsl.minewave.net",
+        "ip": "minewave.net",
         "type": "PC"
     },
     {
@@ -75,18 +75,18 @@
         "type": "PC"
     },
     {
-        "name": "WildWood SMP",
-        "ip": "join.wildwoodsmp.com",
+        "name": "WildWoodSMP",
+        "ip": "play.wildwoodsmp.com",
         "type": "PC"
     },
     {
         "name": "Netherite",
-        "ip": "bee.netherite.gg",
+        "ip": "play.netherite.gg",
         "type": "PC"
     },
     {
         "name": "BlossomCraft",
-        "ip": "buzz.blossomcraft.org",
+        "ip": "play.blossomcraft.org",
         "type": "PC"
     },
     {
@@ -95,7 +95,7 @@
         "type": "PC"
     },
     {
-        "name": "Vanilla Realms",
+        "name": "VanillaRealms",
         "ip": "play.vanillarealms.com",
         "type": "PC"
     },
@@ -106,17 +106,17 @@
     },
     {
         "name": "Cavern",
-        "ip": "buzz.cavern.gg",
+        "ip": "play.cavern.gg",
         "type": "PC"
     },
     {
         "name": "KiwiSMP",
-        "ip": "buzz.kiwismp.fun",
+        "ip": "play.kiwismp.fun",
         "type": "PC"
     },
     {
         "name": "HayFun",
-        "ip": "join.hayfun.gg",
+        "ip": "play.hayfun.gg",
         "type": "PC"
     },
     {
@@ -125,7 +125,7 @@
         "type": "PC"
     },
     {
-        "name": "Fire Vanilla",
+        "name": "FireVanilla",
         "ip": "firevanilla.net",
         "type": "PC"
     },
@@ -136,7 +136,7 @@
     },
     {
         "name": "Lifesteal",
-        "ip": "Lifesteal.RIP",
+        "ip": "lifesteal.rip",
         "type": "PC"
     },
     {
@@ -146,7 +146,7 @@
     },
     {
         "name": "SpeedVanilla",
-        "ip": "Speedvanilla.net",
+        "ip": "speedvanilla.net",
         "type": "PC"
     }
 ]
