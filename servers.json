@@ -1,6 +1,3 @@
-# Please ensure IP-adresses are correct before creating a pull request. 
-# Servers that have been shut down or are inactive will be removed from the list. 
-
 [
     {
         "name": "LeoneMC",
@@ -150,6 +147,11 @@
     {
         "name": "SpeedVanilla",
         "ip": "speedvanilla.net",
+        "type": "PC"
+    },
+    {
+        "name": "OG-Network",
+        "ip": "og-network.net",
         "type": "PC"
     }
 ]
