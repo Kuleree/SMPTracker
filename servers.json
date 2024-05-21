@@ -153,5 +153,25 @@
         "name": "OG-Network",
         "ip": "og-network.net",
         "type": "PC"
+    },
+    {
+        "name": "LoverFella",
+        "ip": "play.loverfella.com",
+        "type": "PC"
+    },
+    {
+        "name": "mc.simplesurvival.gg",
+        "ip": "mc.simplesurvival.gg",
+        "type": "PC"
+    },
+    {
+        "name": "MinePiece",
+        "ip": "go.minepiece.net",
+        "type": "PC"
+    },
+    {
+        "name": "FadeCloud",
+        "ip": "mc.fadecloud.com",
+        "type": "PC"
     }
 ]
