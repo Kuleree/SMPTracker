@@ -4,4 +4,4 @@
 - The server must have a SMP gamemode (lifesteal, survival, skyblock etc) 
 - Server must be released and active when submitted. Servers under development does not get added. 
 
-[Website](https://smptracker.net)
+# [Website](https://smptracker.net)
