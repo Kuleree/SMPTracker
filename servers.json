@@ -173,5 +173,25 @@
         "name": "FadeCloud",
         "ip": "mc.fadecloud.com",
         "type": "PC"
+    },
+    {
+        "name": "MineSeed",
+        "ip": "join.mineseed.org",
+        "type": "PC"
+    },
+    {
+        "name": "ChillSMP",
+        "ip": "mc.chillsmp.org",
+        "type": "PC"
+    },
+    {
+        "name": "MineSurvive",
+        "ip": "play.minesurvive.com",
+        "type": "PC"
+    },
+    {
+        "name": "Craftadia",
+        "ip": "play.craftadia.com",
+        "type": "PC"
     }
 ]
