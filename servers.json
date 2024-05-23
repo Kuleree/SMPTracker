@@ -1,5 +1,10 @@
 [
     {
+        "name": "Honey Survival",
+        "ip": "play.honeysurvival.xyz",
+        "type:" "PC"
+    },   
+    {
         "name": "LeoneMC",
         "ip": "play.leonemc.net",
         "type": "PC"
