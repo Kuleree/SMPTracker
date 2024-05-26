@@ -193,5 +193,10 @@
         "name": "Craftadia",
         "ip": "play.craftadia.com",
         "type": "PC"
+    },
+    {
+        "name": "OPLegends",
+        "ip": "play.oplegends.com",
+        "type": "PC"
     }
 ]
