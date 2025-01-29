@@ -30,18 +30,8 @@
         "type": "PC"
     },
     {
-        "name": "MineRival",
-        "ip": "play.minerival.org",
-        "type": "PC"
-    },
-    {
         "name": "MineWave",
         "ip": "minewave.net",
-        "type": "PC"
-    },
-    {
-        "name": "MineFruit",
-        "ip": "minefruit.org",
         "type": "PC"
     },
     {
@@ -57,11 +47,6 @@
     {
         "name": "JackpotMC",
         "ip": "play.jackpotmc.com",
-        "type": "PC"
-    },
-    {
-        "name": "BumbleCraft",
-        "ip": "play.bumblecraft.net",
         "type": "PC"
     },
     {
@@ -115,11 +100,6 @@
         "type": "PC"
     },
     {
-        "name": "HayFun",
-        "ip": "play.hayfun.gg",
-        "type": "PC"
-    },
-    {
         "name": "Vanilla+",
         "ip": "play.vanillaplus.net",
         "type": "PC"
@@ -145,11 +125,6 @@
         "type": "PC"
     },
     {
-        "name": "SpeedVanilla",
-        "ip": "speedvanilla.net",
-        "type": "PC"
-    },
-    {
         "name": "OG-Network",
         "ip": "og-network.net",
         "type": "PC"
@@ -162,11 +137,6 @@
     {
         "name": "Simple Survival",
         "ip": "mc.simplesurvival.gg",
-        "type": "PC"
-    },
-    {
-        "name": "MinePiece",
-        "ip": "go.minepiece.net",
         "type": "PC"
     },
     {
@@ -197,6 +167,11 @@
     {
         "name": "OPLegends",
         "ip": "play.oplegends.com",
+        "type": "PC"
+    },
+    {
+        "name": "Gemstone",
+        "ip": "play.gemstone.gg",
         "type": "PC"
     }
 ]
