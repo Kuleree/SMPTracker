@@ -1,179 +1,169 @@
 [
-    {
-        "name": "LeoneMC",
-        "ip": "play.leonemc.net",
-        "type": "PC"
-    },
-    {
-        "name": "BendersMC",
-        "ip": "play.bendersmc.co",
-        "type": "PC"
-    },
-    {
-        "name": "DonutSMP",
-        "ip": "donutsmp.net",
-        "type": "PC"
-    },
-    {
-        "name": "ZedarMC",
-        "ip": "play.zedarmc.com",
-        "type": "PC"
-    },
-    {
-        "name": "AppleMC",
-        "ip": "play.applemc.fun",
-        "type": "PC"
-    },
-    {
-        "name": "FireMC",
-        "ip": "play.firemc.fun",
-        "type": "PC"
-    },
-    {
-        "name": "MineWave",
-        "ip": "minewave.net",
-        "type": "PC"
-    },
-    {
-        "name": "MineHeart",
-        "ip": "play.mineheart.net",
-        "type": "PC"
-    },
-    {
-        "name": "FreshSMP",
-        "ip": "play.freshsmp.fun",
-        "type": "PC"
-    },
-    {
-        "name": "JackpotMC",
-        "ip": "play.jackpotmc.com",
-        "type": "PC"
-    },
-    {
-        "name": "TavernMC",
-        "ip": "tavernmc.net",
-        "type": "PC"
-    },
-    {
-        "name": "VanillyMC",
-        "ip": "buzz.vanillymc.net",
-        "type": "PC"
-    },
-    {
-        "name": "WildWoodSMP",
-        "ip": "play.wildwoodsmp.com",
-        "type": "PC"
-    },
-    {
-        "name": "Netherite",
-        "ip": "play.netherite.gg",
-        "type": "PC"
-    },
-    {
-        "name": "BlossomCraft",
-        "ip": "play.blossomcraft.org",
-        "type": "PC"
-    },
-    {
-        "name": "Lifesteal",
-        "ip": "lifesteal.net",
-        "type": "PC"
-    },
-    {
-        "name": "VanillaRealms",
-        "ip": "play.vanillarealms.com",
-        "type": "PC"
-    },
-    {
-        "name": "HyperSteal",
-        "ip": "play.hypersteal.net",
-        "type": "PC"
-    },
-    {
-        "name": "Cavern",
-        "ip": "play.cavern.gg",
-        "type": "PC"
-    },
-    {
-        "name": "KiwiSMP",
-        "ip": "play.kiwismp.fun",
-        "type": "PC"
-    },
-    {
-        "name": "Vanilla+",
-        "ip": "play.vanillaplus.net",
-        "type": "PC"
-    },
-    {
-        "name": "FireVanilla",
-        "ip": "firevanilla.net",
-        "type": "PC"
-    },
-    {
-        "name": "Valatic",
-        "ip": "play.valatic.net",
-        "type": "PC"
-    },
-    {
-        "name": "Lifesteal",
-        "ip": "play.lifesteal.rip",
-        "type": "PC"
-    },
-    {
-        "name": "Complex Gaming",
-        "ip": "play.mc-complex.com",
-        "type": "PC"
-    },
-    {
-        "name": "OG-Network",
-        "ip": "og-network.net",
-        "type": "PC"
-    },
-    {
-        "name": "LoverFella",
-        "ip": "play.loverfella.com",
-        "type": "PC"
-    },
-    {
-        "name": "Simple Survival",
-        "ip": "mc.simplesurvival.gg",
-        "type": "PC"
-    },
-    {
-        "name": "FadeCloud",
-        "ip": "mc.fadecloud.com",
-        "type": "PC"
-    },
-    {
-        "name": "MineSeed",
-        "ip": "join.mineseed.org",
-        "type": "PC"
-    },
-    {
-        "name": "ChillSMP",
-        "ip": "mc.chillsmp.org",
-        "type": "PC"
-    },
-    {
-        "name": "MineSurvive",
-        "ip": "play.minesurvive.com",
-        "type": "PC"
-    },
-    {
-        "name": "Craftadia",
-        "ip": "play.craftadia.com",
-        "type": "PC"
-    },
-    {
-        "name": "OPLegends",
-        "ip": "play.oplegends.com",
-        "type": "PC"
-    },
-    {
-        "name": "Gemstone",
-        "ip": "play.gemstone.gg",
-        "type": "PC"
-    }
+	{
+	   "name":"LeoneMC",
+	   "ip":"play.leonemc.net",
+	   "type":"PC"
+	},
+	{
+	   "name":"BendersMC",
+	   "ip":"play.bendersmc.co",
+	   "type":"PC"
+	},
+	{
+	   "name":"DonutSMP",
+	   "ip":"donutsmp.net",
+	   "type":"PC"
+	},
+	{
+	   "name":"ZedarMC",
+	   "ip":"play.zedarmc.com",
+	   "type":"PC"
+	},
+	{
+	   "name":"AppleMC",
+	   "ip":"play.applemc.fun",
+	   "type":"PC"
+	},
+	{
+	   "name":"FireMC",
+	   "ip":"play.firemc.fun",
+	   "type":"PC"
+	},
+	{
+	   "name":"MineWave",
+	   "ip":"minewave.net",
+	   "type":"PC"
+	},
+	{
+	   "name":"MineHeart",
+	   "ip":"play.mineheart.net",
+	   "type":"PC"
+	},
+	{
+	   "name":"FreshSMP",
+	   "ip":"play.freshsmp.fun",
+	   "type":"PC"
+	},
+	{
+	   "name":"JackpotMC",
+	   "ip":"play.jackpotmc.com",
+	   "type":"PC"
+	},
+	{
+	   "name":"TavernMC",
+	   "ip":"tavernmc.net",
+	   "type":"PC"
+	},
+	{
+	   "name":"VanillyMC",
+	   "ip":"buzz.vanillymc.net",
+	   "type":"PC"
+	},
+	{
+	   "name":"Netherite",
+	   "ip":"play.netherite.gg",
+	   "type":"PC"
+	},
+	{
+	   "name":"BlossomCraft",
+	   "ip":"play.blossomcraft.org",
+	   "type":"PC"
+	},
+	{
+	   "name":"Lifesteal",
+	   "ip":"lifesteal.net",
+	   "type":"PC"
+	},
+	{
+	   "name":"VanillaRealms",
+	   "ip":"play.vanillarealms.com",
+	   "type":"PC"
+	},
+	{
+	   "name":"HyperSteal",
+	   "ip":"play.hypersteal.net",
+	   "type":"PC"
+	},
+	{
+	   "name":"Cavern",
+	   "ip":"play.cavern.gg",
+	   "type":"PC"
+	},
+	{
+	   "name":"KiwiSMP",
+	   "ip":"play.kiwismp.fun",
+	   "type":"PC"
+	},
+	{
+	   "name":"Vanilla+",
+	   "ip":"play.vanillaplus.net",
+	   "type":"PC"
+	},
+	{
+	   "name":"FireVanilla",
+	   "ip":"firevanilla.net",
+	   "type":"PC"
+	},
+	{
+	   "name":"Valatic",
+	   "ip":"play.valatic.net",
+	   "type":"PC"
+	},
+	{
+	   "name":"Lifesteal",
+	   "ip":"play.lifesteal.rip",
+	   "type":"PC"
+	},
+	{
+	   "name":"Complex Gaming",
+	   "ip":"play.mc-complex.com",
+	   "type":"PC"
+	},
+	{
+	   "name":"OG-Network",
+	   "ip":"og-network.net",
+	   "type":"PC"
+	},
+	{
+	   "name":"LoverFella",
+	   "ip":"play.loverfella.com",
+	   "type":"PC"
+	},
+	{
+	   "name":"Simple Survival",
+	   "ip":"mc.simplesurvival.gg",
+	   "type":"PC"
+	},
+	{
+	   "name":"FadeCloud",
+	   "ip":"mc.fadecloud.com",
+	   "type":"PC"
+	},
+	{
+	   "name":"MineSeed",
+	   "ip":"join.mineseed.org",
+	   "type":"PC"
+	},
+	{
+	   "name":"ChillSMP",
+	   "ip":"mc.chillsmp.org",
+	   "type":"PC"
+	},
+	{
+	   "name":"MineSurvive",
+	   "ip":"play.minesurvive.com",
+	   "type":"PC"
+	},
+	{
+	   "name":"OPLegends",
+	   "ip":"play.oplegends.com",
+	   "type":"PC"
+	},
+	{
+	   "name":"Gemstone",
+	   "ip":"play.gemstone.gg",
+	   "type":"PC"
+	},
 	{
 		"name":"EarthSMP",
 		"ip":"play.earthsmp.gg",
